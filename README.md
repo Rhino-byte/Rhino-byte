@@ -23,8 +23,8 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
 
 **🌐 Let's Connect**
 - GitHub: [@Rhino-byte](https://github.com/Rhino-byte)
-- LinkedIn: [Savins Nanyaemuny](www.linkedin.com/in/nsavins)
-- Email:[📩](savinskamau01@gmail.com)
+- LinkedIn: www.linkedin.com/in/nsavins
+- Email:[📩] savinskamau01@gmail.com
 
   
 <!---
