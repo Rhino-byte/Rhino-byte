@@ -9,7 +9,8 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
 **🌱 Recent Projects**
 
 - **[Movie Genre Analysis](https://github.com/Rhino-byte/Recommendation-system)**: Exploring the relationship between various movie genres and their performance metrics.Implemented a recommendation system to help predict user experience with movies similar to what they like
- ![image](https://github.com/user-attachments/assets/4d9dcbd8-8e2e-49ff-baa2-fef524bb5bc4)
+![Soho Farmhouse](https://github.com/user-attachments/assets/f7184362-5ad0-46b3-a302-b6542d6fa44d)
+
 
 In a data-driven world, businesses aim to personalize user experiences to boost engagement, satisfaction, and revenue. For a movie streaming platform, a recommendation system can provide tailored suggestions based on user preferences and behavior. This project focuses on building a movie recommender system using collaborative filtering, matrix factorization, and a hybrid model to enhance recommendation quality and precision, ultimately improving user experience and platform engagement.
 
