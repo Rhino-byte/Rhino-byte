@@ -12,13 +12,14 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
   ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
 
 - **[Aviation Safety Analysis](https://github.com/Rhino-byte/Aviation-Analysis)**: Using NTSB data to assess the safety and efficiency of aircraft models for acquisition purposes.
-  ![download](https://github.com/user-attachments/assets/4c52d7d9-45a9-4e7b-a6a9-abf159cc10da)
+  ![image](https://github.com/user-attachments/assets/9916a4dc-2993-484d-afab-82a1d0086bac)
+
 
 - **[Cryptocurrency GARCH Strategy](https://github.com/Rhino-byte/Time-Series-)**: Leveraging Kraken's API and implementing GARCH strategies to analyze and predict market trends.
   ![image](https://github.com/user-attachments/assets/7304cd22-026e-43a5-beb7-fc9aa63649c3)
 
 - **Time Series Model Comparison**: Testing and ranking SARIMA, GARCH, NGARCH, and other models to find the best fit for forecasting.
-- 
+  
 - **[Movie Genre Analysis](https://github.com/Rhino-byte/Recommendation-system)**: Exploring the relationship between various movie genres and their performance metrics.Implemented a recommendation system to
   ![image](https://github.com/user-attachments/assets/4d9dcbd8-8e2e-49ff-baa2-fef524bb5bc4)
 
