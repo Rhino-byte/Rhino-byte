@@ -19,7 +19,8 @@ In a data-driven world, businesses aim to personalize user experiences to boost 
   ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
 
 - **[Aviation Safety Analysis](https://github.com/Rhino-byte/Aviation-Analysis)**: Using NTSB data to assess the safety and efficiency of aircraft models for acquisition purposes.
-  ![download](https://github.com/user-attachments/assets/526eb5ba-fba2-4a3a-99b5-ea715398a385)
+  ![download (1)](https://github.com/user-attachments/assets/0cf05558-dc5b-4656-afa1-e3a39e5ae588)
+
 
 - **[Cryptocurrency GARCH Strategy](https://github.com/Rhino-byte/Time-Series-)**: Leveraging Kraken's API and implementing GARCH strategies to analyze and predict market trends.
   ![image](https://github.com/user-attachments/assets/7304cd22-026e-43a5-beb7-fc9aa63649c3)
