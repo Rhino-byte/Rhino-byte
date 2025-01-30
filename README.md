@@ -9,6 +9,8 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
 **🌱 Recent Projects**
 
 - **Food Vision 101**: Competing to beat the top-performing model's accuracy in this milestone computer vision project.
+  ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
+
 - **Aviation Safety Analysis**: Using NTSB data to assess the safety and efficiency of aircraft models for acquisition purposes.
 - **Cryptocurrency GARCH Strategy**: Leveraging Kraken's API and implementing GARCH strategies to analyze and predict market trends.
 - **Time Series Model Comparison**: Testing and ranking SARIMA, GARCH, NGARCH, and other models to find the best fit for forecasting.
