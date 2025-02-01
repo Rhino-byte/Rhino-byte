@@ -8,15 +8,20 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
 
 **🌱 Recent Projects**
 
-- **[Movie Genre Analysis](https://github.com/Rhino-byte/Recommendation-system)**: Exploring the relationship between various movie genres and their performance metrics.Implemented a recommendation system to help predict user experience with movies similar to what they like
+## Movie Genre Analysis
+
+[Recommendation system](https://github.com/Rhino-byte/Recommendation-system) notebook here 👇🏿
+[Film Genre Analysis](https://github.com/Rhino-byte/GroupWork) notebook here
+- Exploring the relationship between various movie genres and their performance metrics. Implemented a recommendation system to help predict user experience with movies similar to what they like
 ![Soho Farmhouse](https://github.com/user-attachments/assets/f7184362-5ad0-46b3-a302-b6542d6fa44d)
 
 
-In a data-driven world, businesses aim to personalize user experiences to boost engagement, satisfaction, and revenue. For a movie streaming platform, a recommendation system can provide tailored suggestions based on user preferences and behavior. This project focuses on building a movie recommender system using collaborative filtering, matrix factorization, and a hybrid model to enhance recommendation quality and precision, ultimately improving user experience and platform engagement.
+Businesses aim to personalize user experiences in a data-driven world to boost engagement, satisfaction, and revenue. For a movie streaming platform, a recommendation system can provide tailored suggestions based on user preferences and behavior. This project focuses on building a movie recommender system using collaborative filtering, matrix factorization, and a hybrid model to enhance recommendation quality and precision, ultimately improving user experience and platform engagement.
 
-**Business Question:** How can we build a recommendation system to provide personalized movie suggestions to users, improving engagement and satisfaction?
+## Food Vision101
 
-- **Food Vision 101**: Competing to beat the top-performing model's accuracy in this milestone computer vision project.
+[**Food Vision 101**](https://github.com/Rhino-byte/Food-Vision101):
+- Competing to beat the top-performing model's accuracy in this milestone computer vision project.
   ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
 
 - **[Aviation Safety Analysis](https://github.com/Rhino-byte/Aviation-Analysis)**: Using NTSB data to assess the safety and efficiency of aircraft models for acquisition purposes.
