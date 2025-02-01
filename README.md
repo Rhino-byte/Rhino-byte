@@ -11,13 +11,21 @@ I'm an enthusiastic learner and developer interested in Machine Learning, Data A
 ## Movie Genre Analysis
 
 [Recommendation system](https://github.com/Rhino-byte/Recommendation-system) notebook here 👇🏿
-[Film Genre Analysis](https://github.com/Rhino-byte/GroupWork) notebook here
+
+[Film Genre Analysis](https://github.com/Rhino-byte/GroupWork) notebook here 👇🏿
+
 - Exploring the relationship between various movie genres and their performance metrics. Implemented a recommendation system to help predict user experience with movies similar to what they like
 ![Soho Farmhouse](https://github.com/user-attachments/assets/f7184362-5ad0-46b3-a302-b6542d6fa44d)
 
 
 Businesses aim to personalize user experiences in a data-driven world to boost engagement, satisfaction, and revenue. For a movie streaming platform, a recommendation system can provide tailored suggestions based on user preferences and behavior. This project focuses on building a movie recommender system using collaborative filtering, matrix factorization, and a hybrid model to enhance recommendation quality and precision, ultimately improving user experience and platform engagement.
 
+## GARCH Model Analysis 
+
+**[Cryptocurrency GARCH Strategy](https://github.com/Rhino-byte/Time-Series-)** notebook here 👇🏿
+- Leveraging Kraken's API and implementing GARCH strategies to analyze and predict market trends.
+  ![image](https://github.com/user-attachments/assets/7304cd22-026e-43a5-beb7-fc9aa63649c3)
+  
 ## Food Vision101
 
 [**Food Vision 101**](https://github.com/Rhino-byte/Food-Vision101):
@@ -28,8 +36,6 @@ Businesses aim to personalize user experiences in a data-driven world to boost e
   ![download (1)](https://github.com/user-attachments/assets/0cf05558-dc5b-4656-afa1-e3a39e5ae588)
 
 
-- **[Cryptocurrency GARCH Strategy](https://github.com/Rhino-byte/Time-Series-)**: Leveraging Kraken's API and implementing GARCH strategies to analyze and predict market trends.
-  ![image](https://github.com/user-attachments/assets/7304cd22-026e-43a5-beb7-fc9aa63649c3)
 
 - **Time Series Model Comparison**: Testing and ranking SARIMA, GARCH, NGARCH, and other models to find the best fit for forecasting.
   
