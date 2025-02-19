@@ -2,7 +2,7 @@
 
 
 
-## 👋 Hi there! I'm Rhino-byte
+## 👋 Hi there, I'm Savins Nanyaemuny
 
 Welcome to my GitHub profile! I'm a passionate developer and data analyst who loves diving into complex projects that bridge the gap between code and real-world insights. Here’s a bit about me and what I’m working on:
 
