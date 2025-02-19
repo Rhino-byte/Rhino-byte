@@ -1,4 +1,5 @@
-![Screenshot 2024-08-16 161825](https://github.com/user-attachments/assets/fea2be95-95fb-4225-9620-811a7721d306)
+![Papasito](https://github.com/user-attachments/assets/7bb30168-7904-4855-89fb-f36500ca5d04)
+
 
 
 ## 👋 Hi there! I'm Rhino-byte
