@@ -1,4 +1,7 @@
-**👋 Hi there! I'm Rhino-byte**
+![Screenshot 2024-08-16 161825](https://github.com/user-attachments/assets/fea2be95-95fb-4225-9620-811a7721d306)
+
+
+## 👋 Hi there! I'm Rhino-byte
 
 Welcome to my GitHub profile! I'm a passionate developer and data analyst who loves diving into complex projects that bridge the gap between code and real-world insights. Here’s a bit about me and what I’m working on:
 
@@ -6,7 +9,21 @@ Welcome to my GitHub profile! I'm a passionate developer and data analyst who lo
 
 I'm an enthusiastic learner and developer interested in Machine Learning, Data Analysis, and Computer Vision. Whether it’s unraveling insights from aviation data, exploring the relationship between movie genres and performance metrics, or implementing trading strategies in cryptocurrency markets, I thrive on using data to make informed decisions and drive impactful results.
 
-**🌱 Recent Projects**
+
+
+
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhino-byte&show_icons=true&theme=radical)
+
+**🌱 Recent Projects Tech stats**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ## Movie Genre Analysis
 
@@ -52,7 +69,7 @@ Businesses aim to personalize user experiences in a data-driven world to boost e
 - LinkedIn: www.linkedin.com/in/nsavins
 - Email:[📩] savinskamau01@gmail.com
 
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rhino-byte)](https://git.io/streak-stats)
 <!---
 Rhino-byte/Rhino-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
