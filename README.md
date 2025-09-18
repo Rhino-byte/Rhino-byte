@@ -48,6 +48,7 @@ Businesses aim to personalize user experiences in a data-driven world to boost e
 
 [**Food Vision 101**](https://github.com/Rhino-byte/Food-Image-classification):
 - Competing to beat the top-performing model's accuracy in this milestone computer vision project.
+- Try out the Food Image classifier [model](https://huggingface.co/spaces/bushman254/FoodImageClassifier)
   ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
 
 ## Aviation Safety Analysis
