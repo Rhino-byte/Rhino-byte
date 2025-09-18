@@ -50,10 +50,11 @@ Businesses aim to personalize user experiences in a data-driven world to boost e
 - Competing to beat the top-performing model's accuracy in this milestone computer vision project.
   ![image](https://github.com/user-attachments/assets/dcbfa0e1-e6b4-493a-8c81-0c0147a0322e)
 
+## Aviation Safety Analysis
 - **[Aviation Safety Analysis](https://github.com/Rhino-byte/Aviation-Analysis)**: Using NTSB data to assess the safety and efficiency of aircraft models for acquisition purposes.
   ![download (1)](https://github.com/user-attachments/assets/0cf05558-dc5b-4656-afa1-e3a39e5ae588)
 
-
+## Time series Analysis
 
 - **Time Series Model Comparison**: Testing and ranking SARIMA, GARCH, NGARCH, and other models to find the best fit for forecasting.
   
