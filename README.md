@@ -67,6 +67,10 @@ Businesses aim to personalize user experiences in a data-driven world to boost e
 - Databases: SQLite
 - Tools: Git, GitHub, Kraken API, Jupyter Notebooks, Rstudio
 
+## 📈 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhino-byte&layout=compact&theme=radical)
+
 **🌐 Let's Connect**
 - GitHub: [@Rhino-byte](https://github.com/Rhino-byte)
 - LinkedIn: www.linkedin.com/in/nsavins
