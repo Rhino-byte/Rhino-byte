@@ -1,4 +1,4 @@
-![Papasito](<img width="640" height="640" alt="prop" src="https://github.com/user-attachments/assets/a91e7a2a-b5db-4124-bdba-7f7d60e910e9" />
+![profile_pic](<img width="640" height="640" alt="prop" src="https://github.com/user-attachments/assets/71090c78-4ac4-4829-b54a-9f043ec9d9ea" />
 )
 
 
