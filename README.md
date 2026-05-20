@@ -1,5 +1,4 @@
-![profile_pic](<img width="640" height="640" alt="prop" src="https://github.com/user-attachments/assets/71090c78-4ac4-4829-b54a-9f043ec9d9ea" />
-)
+![profile_pic](prop.jpeg)
 
 
 
